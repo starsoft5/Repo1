@@ -9,5 +9,6 @@ namespace ClassLibrary1
     public class Class1
     {
         // sample edits
+        // add another
     }
 }
